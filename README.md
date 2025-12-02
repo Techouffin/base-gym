@@ -42,7 +42,10 @@ and more.
 - **[Hop Protocol](https://hop.exchange/)**: A protocol for sending tokens
   across rollups and their shared layer-1 network in a quick and trustless
   manner.
-
+- **[BaseGym](https://v0-base-gym-farcaster-app.vercel.app)**: BaseGym is a gamified wallet fitness
+  platform on Base that rewards on-chain actions with XP. Users earn XP for swaps (20 XP), NFT mints (10 XP),
+  and daily claims (5 XP), maintain streaks for +2% XP bonus, unlock achievement badges (Bronze/Silver/Gold/Platinum),
+  and track wallet levels. Built as a Farcaster mini-app with on-chain transaction verification on Base.
 - **[LayerZero](https://layerzero.network/)**: LayerZero is the leading
   blockchain messaging protocol. LayerZero's advanced messaging infrastructure
   seamlessly connects over 30 blockchains and facilitates transparent and secure
